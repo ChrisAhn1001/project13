@@ -9,7 +9,7 @@ public class lecture01 {
         int number3 = 3;
         long number4 = 4L;
         //실수형
-        float fNumber =1l.0f
+        float fNumber =11.0f;
         double dNumber = 22.0;
         //문자형
         char character = 'A';
