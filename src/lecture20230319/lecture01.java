@@ -16,6 +16,6 @@ public class lecture01 {
         // boolean형
         boolean flag = true;
         // 창조형, reference tpye
-        String str = "HEllo world"
+        String str = "HEllo world";
     }
 }
