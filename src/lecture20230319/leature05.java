@@ -5,9 +5,9 @@ public class leature05 {
         //정수형
         int[] intARR = {1,2,3,4,5};
         //String 배열
-        String[] strArr = {"월","화","수","목","금"};
+        String[]  strArr= {"월","화","수","목","금"};
         //배열의 길이
-        int intArrLength = int.Arr.length;
+        int intArrLength = intARR.length;
         int strArrLength = strArr.length;
         //배열의 모든요소 출력
         for (int i = 0; i < intArrLength; i++) {
